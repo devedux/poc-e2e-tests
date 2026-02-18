@@ -1,0 +1,12 @@
+{
+  "validPayment": {
+    "amount": 100,
+    "currency": "USD",
+    "token": "deuna_token_test_xxx"
+  },
+  "invalidPayment": {
+    "amount": -1,
+    "currency": "USD",
+    "token": ""
+  }
+}
